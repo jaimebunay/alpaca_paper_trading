@@ -8,7 +8,7 @@ In this notebook, we will use `Python` and the `requests` library to test differ
 * Alpaca Paper Trading Account
 * Python
 
-### Create Free Alpaca Account
+### Create A Free Alpaca Account
 Download and store your api keys in a `.env` file. Alpaca will give you $100,000 in equity and $400,000 in buying power to begin experimenting with live trades. 
 
 ![images](images/alpaca_before.png)
